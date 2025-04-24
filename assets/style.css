@@ -9,12 +9,25 @@ img {
 }
 
 h1 {
+    font-family: 'montserrat';
     text-align: center;
+    font-size: large;
+    font-style: italic;
 }
 h2 {
+    font-family: 'montserrat';
     text-align: center;
+    font-style: italic;
 }
-
-
-
+h3 {
+    font-family: 'montserrat';
+    font-style: italic;
+}
+ul {
+    width: 10%;
+    margin: auto;
+}
+li {
+    text-align: left;
+}
 
